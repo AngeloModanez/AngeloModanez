@@ -11,8 +11,8 @@
 ## GitHub Stats 📊
 
 <div align="center"></br>
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelomodanez&theme=calm_pink&bg_color=0d1117e"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelomodanez&theme=calm_pink&bg_color=0d1117e"/>
 </div>
 </br>
 
