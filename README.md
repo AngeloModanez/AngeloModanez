@@ -5,9 +5,6 @@
 - Working towards experiences with personal projects 💼
 - Studying Analysis and Systems Development at Fatec Dom Amaury Castanho 🎓
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-ferraz-modanez-0265a6224/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelone_lokinho/)
-
 ## GitHub Stats 📊
 
 <div align="center"></br>
