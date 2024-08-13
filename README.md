@@ -1,16 +1,13 @@
 # About Me 📖
 
+</br>
+
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
+
 - I'm 18 years old 👶
 - In search of knowledge 🧠
 - Working towards experiences with personal projects 💼
-- Studying Analysis and Systems Development at Fatec Dom Amaury Castanho 🎓
-
-## GitHub Stats 📊
-
-<div align="center"></br>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelomodanez&theme=calm_pink&bg_color=0d1117e"/>
-</div>
+- Studying Analysis and Systems Development at Fatec 🎓
 </br>
 
 ## My Skills 👨‍💻
