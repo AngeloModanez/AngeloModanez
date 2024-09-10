@@ -2,7 +2,7 @@
 
 </br>
 
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
+<img width="70%" align="right" src="https://github-readme-stats.vercel.app/api?username=angelomodanez&theme=calm_pink&show_icons=true&count_private=true"/> 
 
 - I'm 18 years old 👶
 - In search of knowledge 🧠
