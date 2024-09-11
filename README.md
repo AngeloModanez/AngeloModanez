@@ -42,8 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+</br>
+
 ## 📈 My Contribution
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngeloModanez&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+</br>
